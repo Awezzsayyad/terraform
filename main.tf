@@ -7,16 +7,3 @@ prefix = "MR"
 separator = "."
 length = "1"
 }
-variables "filename" {
-    default = "pet.txt"
-    type = string
-    description ="file name for pets"
-}
-variable "content"{
-    default = "i love cates"
-}
-variable "prefix" {
-    default ="MR"
-}
-
-
